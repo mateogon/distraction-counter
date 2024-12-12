@@ -5,19 +5,26 @@ A KDE Plasma widget inspired by [This $2 Gadget Doubled My Productivity - YouTub
 ## Purpose
 
 The Distraction Counter is designed to:
+
 - Help you stay mindful of distractions while working.
 - Log distractions with a single click.
 - Encourage productivity by setting focus goals.
 
+## Demo
+
+![Distraction Counter in Action](media/demo.gif)
+
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/mateogon/distraction-counter.git
    cd distraction-counter
    ```
 
 2. Install the widget:
+
    ```bash
    plasmapkg2 --install .
    ```
