@@ -1,0 +1,29 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Name": "Distraction Counter",
+    "Name[ar]": "عدّاد تشتيت الانتباه",
+    "Name[az]": "Diqqət Dağıtma Sayğacı",
+    "Name[bg]": "Брояч за разсейвания",
+    "Name[ca]": "Comptador de distraccions",
+    "Name[cs]": "Počítadlo Rozptýlení",
+    "Name[de]": "Ablenkungszähler",
+    "Name[en_GB]": "Distraction Counter",
+    "Name[es]": "Contador de Distracciones",
+    "Name[fr]": "Compteur de Distractions",
+    "Name[it]": "Contatore di Distrazioni",
+    "Name[ja]": "気が散る回数カウンター",
+    "Name[pt_BR]": "Contador de Distrações",
+    "Name[ru]": "Счётчик отвлечений",
+    "Name[uk]": "Лічильник відволікань",
+    "Icon": "chronometer",
+    "License": "GPL-2.0+",
+    "Description": "Track the number of distractions to help refocus your attention.",
+    "Description[de]": "Verfolgen Sie die Anzahl der Ablenkungen, um Ihre Aufmerksamkeit neu zu fokussieren.",
+    "Description[fr]": "Suivez le nombre de distractions pour vous recentrer.",
+    "Id": "org.mateogon.distractioncounter",
+    "Category": "Utilities",
+    "Website": "https://example.com"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
